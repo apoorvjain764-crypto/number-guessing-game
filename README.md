@@ -1,4 +1,4 @@
-<img width="1821" height="692" alt="image" src="https://github.com/user-attachments/assets/b7b90533-77c9-412b-954f-ac927ef0e428" /># number-guessing-game
+number-guessing-game
 
 # C Number Guessing Game
 
